@@ -13,6 +13,6 @@ public class TaskManagementProjectApplication {
 	}
 	@Bean
 	public ModelMapper modelMapper() {
-		return new ModelMapper();	}
+		return new ModelMapper();	 }
 
 }
